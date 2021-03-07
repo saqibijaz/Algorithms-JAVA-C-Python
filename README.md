@@ -1,2 +1,3 @@
-# AlgorithmAssignment3
-Assignment 3 code of Algorithm, this contains prefix table(KMP), Optimized Naive algo, Rabin_Karp,Boyers Moore 
+# Important Algorithms Ready to use
+# KMP || Rabin Karp || Boyers Moore || Optimized Naive Algorithm
+
